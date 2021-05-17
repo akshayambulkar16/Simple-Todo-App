@@ -1,0 +1,86 @@
+body {
+  background:rgb(66, 47, 85) ;
+  font-size: 20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.input-text{
+  display:inline-block;
+  margin: 0;
+  border: none;
+  border-radius: 0.4rem;
+  padding: 3px;
+  
+}
+.add-btn {
+  color: #fff !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #7313cb;
+  margin: 15px;
+  padding: 8px;
+  border-radius: 0.4rem;
+  display: inline-block;
+  border: 0px;
+}
+
+.list ul li button {
+  position: absolute;
+  right: 6px; 
+  background: rgb(209, 70, 27);
+  color: #fff;
+  text-transform:capitalize;
+  text-shadow: #131313;
+  text-decoration:none;
+  margin-left: auto;
+  margin-right: 10px;
+  padding: auto;
+  border-radius: 0.4rem;
+  border: none;
+  display: inline;
+
+
+}
+
+
+
+.btn-1{
+  color: #fff;
+  
+}
+.app-title {
+  text-align: center;
+  color: #fff;
+  font-size: 70px;
+  font-family:serif;
+}
+ul {
+  /* remove default padding and margin from ul*/
+  margin: 0px;
+  padding: 0px;
+}
+.list ul li {
+  display: block;
+  width: 100%;
+  text-decoration: none;
+  color: #000000;
+  background-color: #ffffff;
+  line-height: 30px;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #cccccc;
+  padding: 9px;
+  position: relative;
+}
+
+.container {
+  text-align:justify;
+  color: #fff;
+  max-width: 500px;
+  margin: auto;
+}
